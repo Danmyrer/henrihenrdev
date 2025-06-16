@@ -7,8 +7,9 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://avatars.githubusercontent.com/u/64264487
+#picture: assets/images/profile.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -45,8 +46,8 @@ authors:
   henrihenr:
     name: Henri Henr
     bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
+    external-image: true
+    picture: https://avatars.githubusercontent.com/u/64264487
     # twitter: johndoe
   #jamesfoster:
   #  name: James Foster
